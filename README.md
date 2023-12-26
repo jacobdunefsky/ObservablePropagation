@@ -13,3 +13,4 @@ The following is a guide to which notebooks contain code for which experiments i
   * Section 4.2, Appendix I: Maximum activating examples
 * `OtherObservables.ipynb`:
   * Section 4.3
+  * Appendix I
